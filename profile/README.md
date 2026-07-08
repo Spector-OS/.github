@@ -1,8 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://github.com/Spector-OS/branding/blob/main/banners/banner-v1.png" alt="Spector" width="800">
-</p>
-
-***
+</h1>
 
 <p align="center">
   <img alt="Release" src="https://img.shields.io/badge/RELEASE-V1.0.0-523488?style=for-the-badge&logo=devbox&logoColor=FFFFFF" />
