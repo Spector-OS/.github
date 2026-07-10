@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/Spector-OS/branding/blob/main/banners/banner-v1.png" alt="Spector" width="800">
+  <img src="https://github.com/Spector-OS/branding/blob/main/banners/banner-v2.png" alt="Spector" width="800">
 </h1>
 
 <p align="center">
